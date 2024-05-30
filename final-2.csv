@@ -1,0 +1,201 @@
+Country;Region;Subregion;Continent
+Afghanistan;Indian Subcontinent;SAARC;Asia
+Albania;Eastern European;FSU;Europe
+Algeria;Northern Africa;MENA;Africa
+American Samoa;Pacific Islands;Asia;Australia
+Andorra;Western European;HIC;Europe
+Angola;Rest Africa;SSA;Africa
+Antigua and Barbuda;Caribbean;LAC;North America
+Argentina;South American;LAC;South America
+Armenia;Eastern European;FSU;Asia
+Australia;Australian;HIC;Australia
+Austria;Western European;HIC;Europe
+Azerbaijan;Eastern European;FSU;Asia
+Bahamas;Caribbean;LAC;North America
+Bahrain;Middle Eastern;MENA;Asia
+Bangladesh;Indian Subcontinent;SAARC;Asia
+Barbados;Caribbean;LAC;North America
+Belarus;Eastern European;FSU;Europe
+Belgium;Western European;HIC;Europe
+Belize;Central American;LAC;North America
+Benin;Rest Africa;SSA;Africa
+Bermuda;Caribbean;LAC;North America
+Bhutan;Indian Subcontinent;SAARC;Asia
+Bolivia;South American;LAC;South America
+Bosnia and Herzegovina;Eastern European;FSU;Europe
+Botswana;Rest Africa;SSA;Africa
+Brazil;South American;LAC;South America
+Brunei;Southeast Asian;Asia;Asia
+Bulgaria;Eastern European;FSU;Europe
+Burkina Faso;Rest Africa;SSA;Africa
+Burundi;Rest Africa;SSA;Africa
+Cape Verde;Rest Africa;SSA;Africa
+Cambodia;Southeast Asian;Asia;Asia
+Cameroon;Rest Africa;SSA;Africa
+Canada;Canadian;HIC;North America
+Central African Republic;Rest Africa;SSA;Africa
+Chad;Rest Africa;SSA;Africa
+Chile;South American;LAC;South America
+China;Chinese and Mongolian;Asia;Asia
+Colombia;South American;LAC;South America
+Comoros;Rest Africa;SSA;Africa
+Democratic Republic of the Congo;Rest Africa;SSA;Africa
+Cook Islands;Pacific Islands;Asia;Australia
+Costa Rica;Central American;LAC;North America
+Croatia;Eastern European;FSU;Europe
+Cuba;Caribbean;LAC;North America
+Cyprus;Middle Eastern;MENA;Asia
+Czech Republic;Eastern European;FSU;Europe
+Côte d'Ivoire;Rest Africa;SSA;Africa
+North Korea;Korean;Asia;Asia
+Republic of Congo;Rest Africa;SSA;Africa
+Denmark;Scandinavian;HIC;Europe
+Djibouti;Rest Africa;SSA;Africa
+Dominica;Caribbean;LAC;North America
+Dominican Republic;Caribbean;LAC;North America
+Ecuador;South American;LAC;South America
+Egypt;Northern Africa;MENA;Africa
+El Salvador;Central American;LAC;North America
+Equatorial Guinea;Rest Africa;SSA;Africa
+Eritrea;Rest Africa;SSA;Africa
+Estonia;Eastern European;FSU;Europe
+Eswatini;Rest Africa;SSA;Africa
+Ethiopia;Rest Africa;SSA;Africa
+Fiji;Pacific Islands;Asia;Australia
+Finland;Scandinavian;HIC;Europe
+France;Western European;HIC;Europe
+French Polynesia;Pacific Islands;Asia;Australia
+Gabon;Rest Africa;SSA;Africa
+Gambia;Rest Africa;SSA;Africa
+Georgia;Eastern European;FSU;Asia
+Germany;Deutschland;HIC;Europe
+Ghana;Rest Africa;SSA;Africa
+Greece;Greek;HIC;Europe
+Greenland;Scandinavian;HIC;Europe
+Grenada;Caribbean;LAC;North America
+Guatemala;Central American;LAC;North America
+Guinea;Rest Africa;SSA;Africa
+Guinea-Bissau;Rest Africa;SSA;Africa
+Guyana;Caribbean;LAC;South America
+Haiti;Caribbean;LAC;North America
+Honduras;Central American;LAC;North America
+Hungary;Eastern European;FSU;Europe
+Iceland;Scandinavian;HIC;Europe
+India;Indian Subcontinent;SAARC;Asia
+Indonesia;Southeast Asian;Asia;Asia
+Iran;Middle Eastern;MENA;Asia
+Iraq;Middle Eastern;MENA;Asia
+Ireland;Irish;HIC;Europe
+Israel;Middle Eastern;MENA;Asia
+Italy;Italian;HIC;Europe
+Jamaica;Caribbean;LAC;North America
+Japan;Japanese;Asia;Asia
+Jordan;Middle Eastern;MENA;Asia
+Kazakhstan;Eastern European;FSU;Asia
+Kenya;Rest Africa;SSA;Africa
+Kiribati;Pacific Islands;Asia;Australia
+Kuwait;Middle Eastern;MENA;Asia
+Kyrgyzstan;Eastern European;FSU;Asia
+Laos;Southeast Asian;Asia;Asia
+Latvia;Eastern European;FSU;Europe
+Lebanon;Middle Eastern;MENA;Asia
+Lesotho;Rest Africa;SSA;Africa
+Liberia;Rest Africa;SSA;Africa
+Libya;Northern Africa;MENA;Africa
+Lithuania;Eastern European;FSU;Europe
+Luxembourg;Western European;HIC;Europe
+Madagascar;Rest Africa;SSA;Africa
+Malawi;Rest Africa;SSA;Africa
+Malaysia;Southeast Asian;Asia;Asia
+Maldives;Indian Subcontinent;SAARC;Asia
+Mali;Rest Africa;SSA;Africa
+Malta;Southern Europe;HIC;Europe
+Marshall Islands;Pacific Islands;Asia;Australia
+Mauritania;Rest Africa;SSA;Africa
+Mauritius;Rest Africa;SSA;Africa
+Mexico;Mexican;LAC;North America
+Micronesia;Pacific Islands;Asia;Australia
+Monaco;Western European;HIC;Europe
+Mongolia;Chinese and Mongolian;Asia;Asia
+Montenegro;Eastern European;FSU;Europe
+Morocco;Northern Africa;MENA;Africa
+Mozambique;Rest Africa;SSA;Africa
+Myanmar;Southeast Asian;Asia;Asia
+Namibia;Rest Africa;SSA;Africa
+Nauru;Pacific Islands;Asia;Australia
+Nepal;Indian Subcontinent;SAARC;Asia
+Netherlands;Western European;HIC;Europe
+New Zealand;Australian;Asia;Australia
+Nicaragua;Central American;LAC;North America
+Niger;Rest Africa;SSA;Africa
+Nigeria;Rest Africa;SSA;Africa
+Niue;Pacific Islands;Asia;Australia
+Macedonia;Eastern European;FSU;Europe
+Norway;Scandinavian;HIC;Europe
+Oman;Middle Eastern;MENA;Asia
+Pakistan;Indian Subcontinent;SAARC;Asia
+Palau;Pacific Islands;Asia;Australia
+Panama;Central American;LAC;North America
+Papua New Guinea;Pacific Islands;Asia;Australia
+Paraguay;South American;LAC;South America
+Peru;South American;LAC;South America
+Philippines;Southeast Asian;Asia;Asia
+Poland;Eastern European;FSU;Europe
+Portugal;Western European;HIC;Europe
+Puerto Rico;Caribbean;LAC;North America
+Qatar;Middle Eastern;MENA;Asia
+South Korea;Korean;Asia;Asia
+Moldova;Eastern European;FSU;Europe
+Romania;Eastern European;FSU;Europe
+Russia;Eastern European;FSU;Europe
+Rwanda;Rest Africa;SSA;Africa
+Saint Kitts and Nevis;Caribbean;LAC;North America
+Saint Lucia;Caribbean;LAC;North America
+Saint Vincent and the Grenadines;Caribbean;LAC;North America
+Samoa;Pacific Islands;Asia;Australia
+San Marino;Western European;HIC;Europe
+Sao Tome and Principe;Rest Africa;SSA;Africa
+Saudi Arabia;Middle Eastern;MENA;Asia
+Senegal;Rest Africa;SSA;Africa
+Serbia;Eastern European;FSU;Europe
+Seychelles;Rest Africa;SSA;Africa
+Sierra Leone;Rest Africa;SSA;Africa
+Singapore;Southeast Asian;Asia;Asia
+Slovakia;Eastern European;FSU;Europe
+Slovenia;Eastern European;FSU;Europe
+Solomon Islands;Pacific Islands;Asia;Australia
+Somalia;Rest Africa;SSA;Africa
+South Africa;Rest Africa;SSA;Africa
+South Sudan;Rest Africa;SSA;Africa
+Spain;Western European;HIC;Europe
+Sri Lanka;Indian Subcontinent;SAARC;Asia
+Sudan;Northern Africa;MENA;Africa
+Suriname;South American;LAC;South America
+Sweden;Scandinavian;HIC;Europe
+Switzerland;Western European;HIC;Europe
+Syria;Middle Eastern;MENA;Asia
+Tajikistan;Eastern European;FSU;Asia
+Thailand;Thai;Asia;Asia
+Timor-Leste;Southeast Asian;Asia;Asia
+Togo;Rest Africa;SSA;Africa
+Tokelau;Pacific Islands;Asia;Australia
+Tonga;Pacific Islands;Asia;Australia
+Trinidad and Tobago;Caribbean;LAC;North America
+Tunisia;Northern Africa;MENA;Africa
+Turkmenistan;Eastern European;FSU;Asia
+Tuvalu;Pacific Islands;Asia;Australia
+Turkey;Middle Eastern;MENA;Asia
+Uganda;Rest Africa;SSA;Africa
+Ukraine;Eastern European;FSU;Europe
+United Arab Emirates;Middle Eastern;MENA;Asia
+United Kingdom;UK;HIC;Europe
+Tanzania;Rest Africa;SSA;Africa
+United States;US;HIC;North America
+Uruguay;South American;LAC;South America
+Uzbekistan;Eastern European;FSU;Asia
+Vanuatu;Pacific Islands;Asia;Australia
+Venezuela;South American;LAC;South America
+Vietnam;Southeast Asian;Asia;Asia
+Yemen;Middle Eastern;MENA;Asia
+Zambia;Rest Africa;SSA;Africa
+Zimbabwe;Rest Africa;SSA;Africa
