@@ -1,4 +1,4 @@
-superregion2,iso3,age,female,urban,edu,year,varnum,v05_type,v05_type_desc,Median,serving,country name
+Region,iso3,age,female,urban,edu,year,varnum,v05_type,v05_type_desc,Median,serving,country name
 SAARC,AFG,999.0,999,999,999,2018,5,1,1: Foods & Beverages,103.830266187879,1.1183786,Afghanistan
 SSA,AGO,999.0,999,999,999,2018,5,1,1: Foods & Beverages,37.7995569546306,0.41338098,Angola
 FSU,ALB,999.0,999,999,999,2018,5,1,1: Foods & Beverages,40.1813612518816,0.41360125,Albania

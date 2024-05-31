@@ -1,4 +1,4 @@
-superregion2,iso3,age,female,urban,edu,year,varnum,v52_type,v52_type_desc,Median,country name
+Region,iso3,age,female,urban,edu,year,varnum,v52_type,v52_type_desc,Median,country name
 SAARC,AFG,999.0,999,999,999,2018,52,3,3: Micronutrients,1.59451870999112,Afghanistan
 SSA,AGO,999.0,999,999,999,2018,52,3,3: Micronutrients,1.71755613861766,Angola
 FSU,ALB,999.0,999,999,999,2018,52,3,3: Micronutrients,5.0636765602551,Albania

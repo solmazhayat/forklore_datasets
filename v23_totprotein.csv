@@ -1,4 +1,4 @@
-superregion2,iso3,age,female,urban,edu,year,varnum,v23_type,v23_type_desc,Median,country name
+Region,iso3,age,female,urban,edu,year,varnum,v23_type,v23_type_desc,Median,country name
 SAARC,AFG,999.0,999,999,999,2018,23,2,2: Macronutrients,59.1502741523475,Afghanistan
 SSA,AGO,999.0,999,999,999,2018,23,2,2: Macronutrients,37.8145441317716,Angola
 FSU,ALB,999.0,999,999,999,2018,23,2,2: Macronutrients,66.6630408499174,Albania
